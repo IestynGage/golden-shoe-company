@@ -6,6 +6,6 @@ A demo app for a generic golden show company. Bootstrapped with [Create React Ap
 
 In the project directory, you can run:
 
-* `npm start`
-* `npm test`
-* `npm run build`
+- `npm start`
+- `npm test`
+- `npm run build`

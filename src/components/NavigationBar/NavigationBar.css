@@ -13,5 +13,11 @@
   position: fixed;
   height: 55px;
 
-  background-color: red;
+  background-color: var(--blue-ryb);
+}
+
+button.navigation-btn {
+  background-color: var(--blue-ryb) !important;
+  color: white;
+  border-width: 0;
 }
