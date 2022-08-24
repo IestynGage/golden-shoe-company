@@ -1,0 +1,24 @@
+.content {
+  min-height: 100vh;
+  padding: 10px;
+}
+
+.makeshift-image {
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+  display: grid;
+  place-items: center;
+  margin-left: 50px;
+}
+
+.makeshift-image span {
+  transform: rotate(17deg);
+}
+
+.button-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
